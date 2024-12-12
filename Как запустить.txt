@@ -1,0 +1,11 @@
+Терминал Создать терминал
+Команды
+pip install Jinja2
+pip install fastapi
+pip install uvicorn
+py -m uvicorn main:app --reload
+
+http://127.0.0.1:8000/repo
+
+#Для измнения даты окончание:
+Статус заявки  = завершена и этапа выполнения = готова к выдаче
